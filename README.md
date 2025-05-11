@@ -1,3 +1,7 @@
+## 🎥 Demo
+
+https://github.com/yaazii123/Retro-Snake-Game/assets/yaazii123/demo.mp4
+
 # 🐍 Retro Snake Game – C# Console Project
 
 This is a retro-style Snake Game built using **C#** as a console application. It’s a beginner-to-intermediate level project that helps in understanding object-oriented programming, game loops, user input handling, and simple rendering in the terminal.
