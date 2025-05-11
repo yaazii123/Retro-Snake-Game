@@ -1,6 +1,6 @@
 ## 🎥 Demo
 
-https://github.com/yaazii123/Retro-Snake-Game/assets/yaazii123/demo.mp4
+https://github.com/yaazii123/Retro-Snake-Game/blob/main/demo.mp4
 
 # 🐍 Retro Snake Game – C# Console Project
 
